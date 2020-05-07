@@ -1,0 +1,20 @@
+{
+  "short_name": "long_name",
+  "name": "short_name",
+  "icons": [
+    {
+      "src": "logo_192_192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo_512_512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "http://localhost:3000/",
+  "background_color": "#ffffff",
+  "display": "fullscreen",
+  "theme_color": "#3b3b3b"
+}
